@@ -28,8 +28,8 @@
     </dependency>
   </dependencies>
   <scm>
-  	<url>scm:git:github.com:snehangshuk/CodeDeployProject.git</url>
-  	<connection>scm:git:github.com:snehangshuk/CodeDeployProject.git</connection>
-  	<developerConnection>scm:git:github.com:snehangshuk/CodeDeployProject.git</developerConnection>
+  	<url>scm:git:git@github.com:snehangshuk/CodeDeployProject.git</url>
+  	<connection>scm:git:git@github.com:snehangshuk/CodeDeployProject.git</connection>
+  	<developerConnection>scm:git:git@github.com:snehangshuk/CodeDeployProject.git</developerConnection>
   </scm>
 </project>
